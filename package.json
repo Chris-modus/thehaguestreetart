@@ -1,0 +1,23 @@
+{
+  "name": "thehaguestreetart",
+  "version": "1.0.0",
+  "description": "Joomla Template ontworpen door Walewijn den Boer en ontwikkeld door Studio Modus voor The Hague Street Art",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-modus/thehaguestreetart.git"
+  },
+  "keywords": [
+    "Joomla",
+    "UIKit"
+  ],
+  "author": "Christiaan Färber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-modus/thehaguestreetart/issues"
+  },
+  "homepage": "https://github.com/Chris-modus/thehaguestreetart#readme"
+}
