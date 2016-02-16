@@ -1,0 +1,19 @@
+// ITCSS - See http://jordankoschei.com/itcss/ for reference
+
+// Settings - These are preprocessor variables for later use.
+
+// Tools - These include all the mixins and functions.
+
+@import "generic/uikit-mixins.scss";
+@import "generic/uikit-variables.scss";
+@import "generic/uikit.scss";
+
+// Generic - This includes all the third-party CSS used throughout the site.
+
+// Base - These are element styles — no classes or IDs. Base typography styles go here, 
+
+// Objects - Layout partials such as .inner, .outer, footer, header etc.
+   
+// Components - This is mostly a cosmetic layer — this is where I included more specific styling instructions for objects. 
+
+// Trumps - Color overrides, forced floats, and text alignment classes can go here. !important here only.
