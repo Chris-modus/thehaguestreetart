@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/Chris-modus/thehaguestreetart/issues"
   },
-  "homepage": "https://github.com/Chris-modus/thehaguestreetart#readme"
+  "homepage": "https://github.com/Chris-modus/thehaguestreetart#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify": "0.0.5",
+    "gulp-sass": "^2.2.0",
+    "gulp-watch": "^4.3.5"
+  }
 }
